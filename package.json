@@ -1,0 +1,28 @@
+{
+  "name": "js_setup",
+  "version": "1.0.0",
+  "description": "JS code snippets with explanation to cover JS fundamentals (including ES6)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GX-CHEN/js_setup.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Gongxia Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GX-CHEN/js_setup/issues"
+  },
+  "homepage": "https://github.com/GX-CHEN/js_setup#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.9.0",
+    "eslint-plugin-import": "^2.7.0",
+    "prettier": "^1.13.7"
+  }
+}
