@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "General setup for all JS project, including ESLint, Prettier, License, package.json etc",
   "scripts": {
-    "test": "node_modules/jest/bin/jest.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
